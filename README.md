@@ -35,3 +35,6 @@ e) tblORDER (OrderID, OrderDate, CustID, ProductID, EmpID, Quantity)
 5) Write the SQL code to populate each look-up table with three rows using INSERT statements.
 
 6) Write the SQL code to create a stored procedure to populate tblORDER table. Be sure to pass in appropriate parameters needed to 'look-up' required values (do not pass-in ID values!!).
+
+## Extra Credit: SPROC instructions
+Draft an ERD for a topic of your choice. You should have approximately 7 entities, FK/PKs, and correct crows foot notation for full credit.
